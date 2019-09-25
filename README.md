@@ -27,4 +27,4 @@ If you are having any issue they could be related to a number of reasons:
 - [ ] Make it more user friendly.
 - [ ] Change the captcha do have a higher bypass rate.
 ## Legal
-By using this you do not hold the creator responsible for creating this bot. This bot was mainly created to demonstrate for eductational purposes security vunerabilities and the accesibility of faking user inputs. This bot is supposed to showcase all of this in a smooth and clean way.
+By using this you do not hold the creator responsible for creating this bot. This bot was mainly created to demonstrate for eductational purposes security vunerabilities and the accesibility of faking user inputs. This bot is supposed to showcase all of this in a smooth and clean way. Please do not break the tos if you have questions about the tos check [here](https://strawpoll.com/tos/)
