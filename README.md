@@ -1,4 +1,5 @@
 # **StrawTarget**
+![Photo of StrawTarget](https://github.com/TechnicSmile/StrawTarget/blob/master/strawtarget.PNG)
 What is StrawTarget?
 StrawTarget is easy to use and well designed https://strawpoll.me vote botting app created to showcase how easy webpage botting is. Strawtarget can launch votes quickly and accurately and even bypass strawpolls with captcha.
 ## Setup
